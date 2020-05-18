@@ -1,4 +1,4 @@
-package com.patrickgrimard.configserver;
+package io.patrickgrimard.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
